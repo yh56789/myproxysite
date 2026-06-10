@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "chatgpt.com",
+        "madou.club",
+        "x1080x.com",
+        "javdb.com",
+        "huggingface.co"
+      ],
+      "domain_keyword": "chatgpt",
+      "domain_keyword": "HuggingFace"
+    }
+  ]
+}
