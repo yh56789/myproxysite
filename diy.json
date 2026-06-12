@@ -10,7 +10,8 @@
         "huggingface.co",
         "mistral.ai",
         "cerebras.ai",
-        "groq.com"
+        "groq.com",
+        "cohere.com"
       ],
       "domain_keyword": [
         "chatgpt",
