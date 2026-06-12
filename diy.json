@@ -7,10 +7,15 @@
         "madou.club",
         "x1080x.com",
         "javdb.com",
-        "huggingface.co"
+        "huggingface.co",
+        "mistral.ai",
+        "cerebras.ai",
+        "groq.com"
       ],
-      "domain_keyword": "chatgpt",
-      "domain_keyword": "HuggingFace"
+      "domain_keyword": [
+        "chatgpt",
+        "HuggingFace"
+      ]
     }
   ]
 }
